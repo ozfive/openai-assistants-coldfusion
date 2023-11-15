@@ -11,7 +11,9 @@ openai-assistants-coldfusion is a set of Coldfusion components providing a conve
 To get started with the OpenAI Assistants Coldfusion Components, you need to initialize the client by providing your OpenAI API key. Follow these steps:
 
 ```coldfusion
+<cfscript>
 apiComm = new APICommunication();
+</cfscript>
 ```
 
 ### Example
