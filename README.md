@@ -40,3 +40,7 @@ apiComm = new APICommunication();
     writeDump(result);
 </cfscript>
 ```
+
+### Links
+
+[OpenAI Assistants API](https://platform.openai.com/docs/api-reference/assistants)
